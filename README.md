@@ -9,9 +9,9 @@ This youtube video shows you how easily.
 The SQL Folder has part 1 and part 2 of my SQL Querys to make the Database.
 Run FinalDBP1.sql first then FinalDBP2.sql second.
 
-In postgres I named the Database 'BookStore' with a password of 'beaubeau' and used the default user of 'postgres'
-the default port is '5432'
-All of this is at the top of the Test.java file that is in the Q2 directory which holds the UI
+In postgres I named the Database 'BookStore' with a password of 'beaubeau' and used the default user of 'postgres'.
+The default port is '5432'.
+All of this is at the top of the Test.java file that is in the Q2 directory which holds the UI.
 
 That is everything you need to know for running it.
 The UI Java file has 1264 lines of code alone but this course is my first time using databases.
